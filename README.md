@@ -1,82 +1,102 @@
-
-###
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ahmad+Al-Zuhair;Frontend+Developer;AI+Ops+Engineer;React+%26+Next.js+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22)%3B;I+Build+Scalable+Frontends;I+Engineer+AI+Solutions;I+Fine-Tune+LLMs" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>Bridging the gap between Scalable Frontends & AI Automation.</h3>
-</div>
-
-<br/>
-
-### 👨‍💻 About Me
-
-I am a **Frontend Developer** and **Junior AI Ops Engineer** based in **Riyadh, Saudi Arabia**. I specialize in building scalable component-based architectures using **React** and **TypeScript**, while also developing AI-powered tools and fine-tuning LLMs for practical business applications.
-
-* 🔭 **Current Focus:** Developing real-time systems with **WebSockets** and integrating **LLMs** (OpenAI, LLaMA, Groq) into web apps.
-* 📱 **Mobile Dev:** Experienced in **React Native** & **Expo** for cross-platform apps.
-* 🎓 **Education:** B.Eng in Computer Engineering from **Asia Pacific University** & **De Montfort University (UK)**.
-
-<br/>
-
-### 🚀 Tech Stack & Arsenals
-
-<div align="center">
-
-| **Frontend & Mobile** | **Backend & AI** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" width="280" /> | <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,pytorch,tensorflow,opencv" width="280" /> | <img src="https://skillicons.dev/icons?i=aws,docker,git,postgres,mysql,sqlite,figma,wordpress" width="280" /> |
-
-</div>
-
-<br/>
-
-### 🛠️ Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Taalomy** | An educational management platform with real-time attendance tracking, messaging, and scheduling workflows. | React Native, Django, WebSockets |
-| **Mazraty** | A farm monitoring mobile application providing live notifications and data-driven insights for agricultural operations. | React Native, Expo, Node.js |
-| **AI Automation Suite** | A suite of 40+ mini-agents and a production chatbot that reduced response times by ~60% for a pet air travel company. | TypeScript, LLaMA, Groq, OpenAI |
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYZuhair&show_icons=true&count_private=true&hide_border=true&title_color=3366CC&icon_color=4c4c4c&text_color=333333&bg_color=0d1117&theme=react" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYZuhair&layout=compact&langs_count=6&card_width=320&hide_border=true&title_color=3366CC&text_color=333333&bg_color=0d1117&theme=react" height="180" alt="languages graph" />
+  <h3><code>const developer = "Ahmad Al-Zuhair";</code></h3>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AYZuhair&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" /> 
+  <b>Full Stack Developer & AI Ops Engineer</b> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <br/><br/>
+  I am a software engineer based in <b>Riyadh</b>, bridging the gap between <b>pixel-perfect frontends</b> and <b>intelligent backend systems</b>. <br/> Currently deploying AI Agents and optimizing real-time React Native applications.
 </div>
 
 <br/>
 
-### 🐍 Contribution History
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-<br/>
-
+<h2 align="center">⚡ <span style="color:#58A6FF">The Arsenal</span></h2>
 <div align="center">
-  <a href="mailto:ahmadyalzuhair@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,pytorch,tensorflow,opencv,docker,aws,git,postgres,figma,linux&perline=8&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/a-zuhair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
+</div>
+
+<br/>
+
+<h2 align="center">🛸 <span style="color:#58A6FF">Deployed Systems</span></h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>📂 Project</b></td>
+    <td align="center"><b>💻 Tech Stack</b></td>
+    <td align="left"><b>📝 Description</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Taalomy</b></td>
+    <td align="center"><code>React Native</code> <code>Django</code> <code>WebSockets</code></td>
+    <td>An educational platform managing real-time attendance, grading, and scheduling for universities.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mazraty</b></td>
+    <td align="center"><code>Expo</code> <code>Node.js</code> <code>IoT</code></td>
+    <td>Smart farming monitor providing live sensor updates and data-driven agricultural insights.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Agents</b></td>
+    <td align="center"><code>LLaMA</code> <code>Groq</code> <code>TypeScript</code></td>
+    <td>A swarm of 40+ automated agents and a production chatbot handling customer logistics.</td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">📊 <span style="color:#58A6FF">The Metrics</span></h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AYZuhair&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <br/><br/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AYZuhair&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="portfolio logo" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AYZuhair&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
+</div>
+
+<br/>
+
+<h2 align="center">🐍 <span style="color:#58A6FF">Contribution Activity</span></h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/a-zuhair">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:ahmadyalzuhair@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
