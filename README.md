@@ -135,8 +135,8 @@
 <h2 align="center"><span style="color:#4F46E5">[ PERFORMANCE METRICS ]</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYZuhair&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYZuhair&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AYZuhair&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYZuhair&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 <br/>
