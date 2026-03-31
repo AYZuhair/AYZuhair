@@ -131,12 +131,19 @@
 <hr style="border: 1px solid #4F46E5;">
 <br/>
 
-<!-- GLOBAL METRICS -->
+<!-- PERFORMANCE METRICS -->
 <h2 align="center"><span style="color:#4F46E5">[ PERFORMANCE METRICS ]</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYZuhair&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYZuhair&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AYZuhair&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/AYZuhair?style=for-the-badge&logo=github&color=4F46E5&labelColor=121212" />
+  <img src="https://img.shields.io/github/commit-activity/y/AYZuhair/AYZuhair?style=for-the-badge&logo=github&color=06B6D4&labelColor=121212" />
+  <img src="https://img.shields.io/github/followers/AYZuhair?style=for-the-badge&logo=github&color=4F46E5&labelColor=121212" />
 </div>
 
 <br/>
