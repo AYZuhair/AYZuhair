@@ -25,7 +25,7 @@
   <table width="100%" border="0" cellpadding="10">
     <tr>
       <td width="60%">
-        <h2 style="color:#4F46E5">[ VENTURE.01 ] KOOPER AI</h2>
+        <h2 style="color:#4F46E5">KOOPER AI</h2>
         <p><b>Founder & AI Systems Architect</b></p>
         <p>A mission-critical AI platform built on a <b>Microservices Architecture</b>. Leveraging <b>Nx Monorepos</b>, <b>NestJS</b>, and <b>Angular Material</b> to orchestrate autonomous agents powered by <b>Groq (Llama 3)</b>.</p>
         <ul>
@@ -55,7 +55,7 @@
         <img src="./taalomy-logo.png" width="180" style="border-radius: 20px; box-shadow: 0 0 15px #06B6D4;" />
       </td>
       <td width="60%">
-        <h2 style="color:#06B6D4">[ VENTURE.02 ] TAALOMY</h2>
+        <h2 style="color:#06B6D4">TAALOMY</h2>
         <p><b>Lead Full-Stack Engineer</b></p>
         <p>A comprehensive EdTech platform connecting institutions via a <b>Dual-App Mobile Ecosystem</b>. Redefining academic engagement through real-time data sync and institutional optimization.</p>
         <ul>
