@@ -5,14 +5,14 @@
 
 <br/>
 
-<!-- PROFILE PICTURE WITH FOUNDER RING -->
+<!-- PROFILE PICTURE WITH FOUNDER RING
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" style="background: linear-gradient(45deg, #4F46E5, #06B6D4); padding: 5px; border-radius: 50%;">
       <img src="https://github.com/AYZuhair.png" width="180" style="border-radius: 50%; border: 4px solid #0d1117;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
