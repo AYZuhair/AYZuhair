@@ -3,18 +3,7 @@
 <!-- HEADER / HERO -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=AHMAD%20AL%20ZUHAIR&fontSize=80&animation=fadeIn&theme=dark&fontAlignY=38" width="100%" />
 
-<br/>
 
-<!-- PROFILE PICTURE WITH FOUNDER RING
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="background: linear-gradient(45deg, #4F46E5, #06B6D4); padding: 5px; border-radius: 50%;">
-      <img src="https://github.com/AYZuhair.png" width="180" style="border-radius: 50%; border: 4px solid #0d1117;" />
-    </td>
-  </tr>
-</table> -->
-
-<br/>
 
 <!-- TYPING EFFECT: ROLE FOCUS -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=36&pause=1000&color=4F46E5&background=00000000&center=true&vCenter=true&width=800&lines=COMPUTER+ENGINEER;AI+SYSTEMS+ARCHITECT;SOFTWARE+ENGINEER;PRODUCT+ENGINEER;SCALING+IMPACT+AT+SCALE" alt="Typing SVG" />
@@ -128,36 +117,8 @@
 </div>
 
 <br/>
-<hr style="border: 1px solid #4F46E5;">
-<br/>
 
-<!-- PERFORMANCE METRICS -->
-<h2 align="center"><span style="color:#4F46E5">[ PERFORMANCE METRICS ]</span></h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AYZuhair&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/AYZuhair?style=for-the-badge&logo=github&color=4F46E5&labelColor=121212" />
-  <img src="https://img.shields.io/github/commit-activity/y/AYZuhair/AYZuhair?style=for-the-badge&logo=github&color=06B6D4&labelColor=121212" />
-  <img src="https://img.shields.io/github/followers/AYZuhair?style=for-the-badge&logo=github&color=4F46E5&labelColor=121212" />
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AYZuhair/AYZuhair/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ESTABLISH CONNECTION -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=2&section=header" width="100%" />
