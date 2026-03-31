@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- HEADER / HERO -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=AHMAD%20AL%20ZUHAIR&fontSize=80&animation=fadeIn&theme=dark&fontAlignY=38" width="100%" />
+<!-- HEADER / HERO
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=AHMAD%20AL%20ZUHAIR&fontSize=80&animation=fadeIn&theme=dark&fontAlignY=38" width="800" /> -->
 
 
 
 <!-- TYPING EFFECT: ROLE FOCUS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=36&pause=1000&color=4F46E5&background=00000000&center=true&vCenter=true&width=800&lines=COMPUTER+ENGINEER;AI+SYSTEMS+ARCHITECT;SOFTWARE+ENGINEER;PRODUCT+ENGINEER;SCALING+IMPACT+AT+SCALE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=36&pause=1000&color=4F46E5&background=00000000&center=true&vCenter=true&width=800&height=100&lines=COMPUTER+ENGINEER;AI+SYSTEMS+ARCHITECT;SOFTWARE+ENGINEER;PRODUCT+ENGINEER;SCALING+IMPACT+AT+SCALE" alt="Typing SVG" />
 
 <br/>
 
